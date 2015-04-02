@@ -88,7 +88,7 @@
                         </connections>
                     </view>
                     <navigationItem key="navigationItem" title="Tip Calculator" id="22A-bv-wEn">
-                        <barButtonItem key="rightBarButtonItem" style="plain" id="Hm0-ly-TED">
+                        <barButtonItem key="rightBarButtonItem" id="Hm0-ly-TED">
                             <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="9d9-9C-dB8">
                                 <rect key="frame" x="-23" y="-15" width="71" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -149,12 +149,19 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="Settings" id="Z4J-wx-0iJ">
-                        <barButtonItem key="rightBarButtonItem" style="plain" id="tNW-Yr-Uwe">
-                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Eg3-6S-zHV">
+                        <barButtonItem key="rightBarButtonItem" id="tNW-Yr-Uwe">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" id="Eg3-6S-zHV">
                                 <rect key="frame" x="221" y="7" width="96" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
-                                <state key="normal" title="Tip Calculator"/>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Tip Calculator">
+                                            <attributes>
+                                                <font key="NSFont" size="15" name="HelveticaNeue"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
+                                </state>
                                 <connections>
                                     <action selector="onTouchDown:" destination="lKo-m6-7ZT" eventType="touchDown" id="yik-79-zey"/>
                                 </connections>
@@ -188,7 +195,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6F4-vL-NYn" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1055" y="104"/>
+            <point key="canvasLocation" x="832" y="104"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="fDi-TF-n18">
