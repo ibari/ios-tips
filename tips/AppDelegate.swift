@@ -3,7 +3,7 @@
 //  tips
 //
 //  Created by Ian on 3/8/15.
-//  Copyright (c) 2015 codepath. All rights reserved.
+//  Copyright (c) 2015 ibari. All rights reserved.
 //
 
 import UIKit
