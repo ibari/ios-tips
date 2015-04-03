@@ -15,6 +15,7 @@
 		9C8692E71ACC7FD500BB3D49 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8692E61ACC7FD500BB3D49 /* SettingsViewController.swift */; };
 		9CD3B1571ACE5924005E517F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CD3B1561ACE5924005E517F /* Images.xcassets */; };
 		9CD3B1591ACE7375005E517F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 9CD3B1581ACE7375005E517F /* README.md */; };
+		9CD3B15B1ACE7C8D005E517F /* LICENSE.md in Sources */ = {isa = PBXBuildFile; fileRef = 9CD3B15A1ACE7C8D005E517F /* LICENSE.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		9C8692E61ACC7FD500BB3D49 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		9CD3B1561ACE5924005E517F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		9CD3B1581ACE7375005E517F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9CD3B15A1ACE7C8D005E517F /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				9CD3B1561ACE5924005E517F /* Images.xcassets */,
 				9C6E6DEA1AAD56DF006710F6 /* Supporting Files */,
 				9CD3B1581ACE7375005E517F /* README.md */,
+				9CD3B15A1ACE7C8D005E517F /* LICENSE.md */,
 			);
 			path = tips;
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CD3B15B1ACE7C8D005E517F /* LICENSE.md in Sources */,
 				9C6E6DEF1AAD56DF006710F6 /* ViewController.swift in Sources */,
 				9C6E6DED1AAD56DF006710F6 /* AppDelegate.swift in Sources */,
 				9CD3B1591ACE7375005E517F /* README.md in Sources */,
