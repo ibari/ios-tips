@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9C6E6DE61AAD56DF006710F6"
-               BuildableName = "tip.app"
+               BuildableName = "tips.app"
                BlueprintName = "tips"
                ReferencedContainer = "container:tips.xcodeproj">
             </BuildableReference>
@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9C6E6DFB1AAD56DF006710F6"
-               BuildableName = "tipTests.xctest"
+               BuildableName = "tipsTests.xctest"
                BlueprintName = "tipsTests"
                ReferencedContainer = "container:tips.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9C6E6DFB1AAD56DF006710F6"
-               BuildableName = "tipTests.xctest"
+               BuildableName = "tipsTests.xctest"
                BlueprintName = "tipsTests"
                ReferencedContainer = "container:tips.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9C6E6DE61AAD56DF006710F6"
-            BuildableName = "tip.app"
+            BuildableName = "tips.app"
             BlueprintName = "tips"
             ReferencedContainer = "container:tips.xcodeproj">
          </BuildableReference>
@@ -77,7 +77,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9C6E6DE61AAD56DF006710F6"
-            BuildableName = "tip.app"
+            BuildableName = "tips.app"
             BlueprintName = "tips"
             ReferencedContainer = "container:tips.xcodeproj">
          </BuildableReference>
@@ -96,7 +96,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9C6E6DE61AAD56DF006710F6"
-            BuildableName = "tip.app"
+            BuildableName = "tips.app"
             BlueprintName = "tips"
             ReferencedContainer = "container:tips.xcodeproj">
          </BuildableReference>
