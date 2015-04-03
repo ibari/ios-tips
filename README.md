@@ -9,11 +9,11 @@ Completed user stories:
  * [x] Required: User can enter a bill amount and tip percentage to calculate the tip and total
  * [x] Required: User can navigate to the Settings page to configure the default tip percentage
  * [x] Optional: Made bill amount text field borderless with prepended dollar sign
- * [x] Optional: Separated tip result are into separate view with different background color
+ * [x] Optional: Separated tip result area into separate view with different background color
  * [x] Optional: Show/hide tip result area when bill amount is entered using an animation
  * [x] Optional: Show clear button when bill amount is entered
  * [x] Optional: Always show tip percentage segmented buttons for better UX
- * [x] Optional: If bill amount is entered don't clear when navigating from Settings to main view
+ * [x] Optional: If bill amount is entered don't clear text field when navigating from Settings to main view
  * [x] Optional: Print current time value to console on view load
 
 Notes:
