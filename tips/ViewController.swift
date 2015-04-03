@@ -36,7 +36,11 @@ class ViewController: UIViewController {
         tipControl.selectedSegmentIndex = defaults.integerForKey("tip_percentage_index")
         
         // Hide tip result area
-        self.tipResultView.alpha = 0
+        if (billField.text == "") {
+            self.tipResultView.alpha = 0
+        } else {
+            onEditingChanged(view)
+        }
     }
     
     override func viewDidAppear(animated: Bool) {
