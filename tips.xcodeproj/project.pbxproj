@@ -14,6 +14,7 @@
 		9C6E6E031AAD56DF006710F6 /* tipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C6E6E021AAD56DF006710F6 /* tipsTests.swift */; };
 		9C8692E71ACC7FD500BB3D49 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8692E61ACC7FD500BB3D49 /* SettingsViewController.swift */; };
 		9CD3B1571ACE5924005E517F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CD3B1561ACE5924005E517F /* Images.xcassets */; };
+		9CD3B1591ACE7375005E517F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 9CD3B1581ACE7375005E517F /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		9C6E6E021AAD56DF006710F6 /* tipsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsTests.swift; sourceTree = "<group>"; };
 		9C8692E61ACC7FD500BB3D49 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		9CD3B1561ACE5924005E517F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		9CD3B1581ACE7375005E517F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				9C6E6DF51AAD56DF006710F6 /* LaunchScreen.xib */,
 				9CD3B1561ACE5924005E517F /* Images.xcassets */,
 				9C6E6DEA1AAD56DF006710F6 /* Supporting Files */,
+				9CD3B1581ACE7375005E517F /* README.md */,
 			);
 			path = tips;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 			files = (
 				9C6E6DEF1AAD56DF006710F6 /* ViewController.swift in Sources */,
 				9C6E6DED1AAD56DF006710F6 /* AppDelegate.swift in Sources */,
+				9CD3B1591ACE7375005E517F /* README.md in Sources */,
 				9C8692E71ACC7FD500BB3D49 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
