@@ -14,8 +14,6 @@
 		9C6E6E031AAD56DF006710F6 /* tipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C6E6E021AAD56DF006710F6 /* tipsTests.swift */; };
 		9C8692E71ACC7FD500BB3D49 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8692E61ACC7FD500BB3D49 /* SettingsViewController.swift */; };
 		9CD3B1571ACE5924005E517F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CD3B1561ACE5924005E517F /* Images.xcassets */; };
-		9CD3B1591ACE7375005E517F /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 9CD3B1581ACE7375005E517F /* README.md */; };
-		9CD3B15B1ACE7C8D005E517F /* LICENSE.md in Sources */ = {isa = PBXBuildFile; fileRef = 9CD3B15A1ACE7C8D005E517F /* LICENSE.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -229,10 +227,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9CD3B15B1ACE7C8D005E517F /* LICENSE.md in Sources */,
 				9C6E6DEF1AAD56DF006710F6 /* ViewController.swift in Sources */,
 				9C6E6DED1AAD56DF006710F6 /* AppDelegate.swift in Sources */,
-				9CD3B1591ACE7375005E517F /* README.md in Sources */,
 				9C8692E71ACC7FD500BB3D49 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
